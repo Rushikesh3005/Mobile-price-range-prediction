@@ -1,2 +1,2 @@
-# Mobile-price-range-prediction
+# Mobile phone price range prediction
 prediction of mobile price range
